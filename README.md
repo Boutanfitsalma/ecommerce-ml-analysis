@@ -9,7 +9,7 @@
 
 **Analyse avancée de données e-commerce avec Machine Learning**
 
-[Documentation](#-documentation) • [Installation](#-installation) • [Résultats](#-résultats) • 
+ • [Installation](#-installation) • [Résultats](#-résultats) • 
 
 </div>
 
@@ -244,7 +244,7 @@ Anaconda            # Gestion d'environnement
 
 ```bash
 # 1. Cloner le repository
-git clone https://github.com/votre-username/ecommerce-ml-analysis.git
+git clone https://github.com/Boutanfitsalma/ecommerce-ml-analysis.git
 cd ecommerce-ml-analysis
 
 # 2. Créer un environnement virtuel (recommandé)
@@ -262,7 +262,7 @@ jupyter notebook
 
 ```bash
 # 1. Cloner le repository
-git clone https://github.com/votre-username/ecommerce-ml-analysis.git
+git clone https://github.com/Boutanfitsalma/ecommerce-ml-analysis.git
 cd ecommerce-ml-analysis
 
 # 2. Créer l'environnement conda
