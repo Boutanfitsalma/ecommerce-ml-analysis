@@ -7,7 +7,7 @@
 [![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-**Analyse avancée de données e-commerce avec Machine Learning**
+**Analyse de données e-commerce avec Machine Learning**
 
  • [Installation](#-installation) • [Résultats](#-résultats) • 
 
